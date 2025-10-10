@@ -1,0 +1,70 @@
+{
+  "home2": {
+    "title": "LET ME <1>INTRODUCE</1> MYSELF",
+    "body1": "I'm a passionate <1>Web and Mobile Developer</1> with over 3 years of experience creating and optimizing high-performance digital products.",
+    "body2": "I specialize in frameworks like <1>Angular, React Native, and NestJS,</1> focusing on building scalable and maintainable applications with great user experiences.",
+    "body3": "I’ve worked on corporate systems at <1>Servieduca</1> and developed multiple <1>freelance projects</1> with real-world impact.",
+    "body4": "I enjoy turning ideas into efficient, elegant solutions using modern tools such as <1>TypeScript, Node.js,</1> and frameworks like <1>React.js</1> and <1>Next.js.</1>"
+  },
+  "projects": {
+    "heading": "My Recent <1>Works</1>",
+    "description": "A selection of projects I have contributed to, both professionally and personally.",
+
+    "urbeTitle": "Portal URBE",
+    "urbeDesc": "Official university portal. Worked on front-end components, service integration, and content management for seamless user experience.",
+
+    "campusTitle": "Campus URBE",
+    "campusDesc": "News portal for the university community. Contributed to integration of news services, performance optimization, and responsive layouts.",
+
+    "sustentableTitle": "URBE Sustentable",
+    "sustentableDesc": "Program focused on sustainability initiatives. Developed interactive sections and enhanced engagement for environmental awareness campaigns.",
+
+    "chatbetTitle": "ChatBet",
+    "chatbetDesc": "AI-powered betting assistant transforming messaging apps (WhatsApp, Telegram, Discord) into seamless revenue channels. Implemented chat flows and backend integration.",
+
+    "chatlayerTitle": "ChatLayer",
+    "chatlayerDesc": "Enterprise-grade conversational AI platform. Worked on integration of messaging solutions for WhatsApp and Telegram, ensuring secure and scalable communication.",
+
+    "bisciTitle": "Bisci Cala",
+    "bisciDesc": "Implemented multilingual translation system for the entire website, improving accessibility and user experience across languages.",
+
+    "tshopTitle": "Tshop E-commerce",
+    "tshopDesc": "Developed e-commerce platform with secure checkout, product catalog, and responsive design. Contributed to front-end features and performance optimization.",
+
+    "caloTitle": "Calo App",
+    "caloDesc": "Sports app developed in React Native. Features include tracking exercises, workout plans, and performance analytics. Fully functional, available on GitHub.",
+
+    "igoTitle": "Igo Store",
+    "igoDesc": "Delivery app developed in React Native. Currently in progress, implementing order management, product catalog, and real-time updates.",
+
+    "conectandoTitle": "Conectando Realidades",
+    "conectandoDesc": "News page developed as part of a thesis project. Focused on content management and responsive layout. Minor project.",
+
+    "bingoTitle": "Bingo Generator",
+    "bingoDesc": "Online bingo card generator using HTML, CSS, and JavaScript. Minor personal project for learning purposes."
+  },
+ "about": {
+    "intro": "Hi everyone! I'm <1>Oscar Bueno</1> from <3>Venezuela</3>.",
+    "profession": "I’m a <1>Web and Mobile Developer</1> with over 3 years of experience creating and optimizing scalable applications.",
+    "job": "Currently, I work as a developer at <1>Servieduca</1>, focusing on improving system performance and user experience.",
+    "hobbiesIntro": "When I’m not coding, I enjoy spending time doing other things I’m passionate about:",
+    "hobby1": "Going to the gym 🏋️‍♂️",
+    "hobby2": "Learning new technologies and frameworks",
+    "hobby3": "Playing video games and listening to music",
+    "quote": "\"Keep building, keep learning — every line of code matters.\"",
+    "name": "Oscar Bueno",
+    "title": "Know Who <1>I'M</1>",
+    "skillset": "Professional <1>Skillset</1>",
+    "tools": "<1>Tools I use</1>"
+  },
+
+  "home": {
+    "welcome": "Welcome To My Portfolio <1>👋🏻</1>",
+    "im": "I'M <1>OSCAR BUENO</1>"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "resume": "Resume"}
+}

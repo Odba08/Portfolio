@@ -1,11 +1,14 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
+import { Trans, useTranslation } from "react-i18next";
 import homeoscar from "../../Assets/niuhome.png";
 import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
 
 function Home() {
+  const { t } = useTranslation();
+
   return (
     <section>
       <Container fluid className="home-section" id="home">
@@ -14,15 +17,18 @@ function Home() {
           <Row>
             <Col md={7} className="home-header">
               <h1 style={{ paddingBottom: 15 }} className="heading">
-                Welcome To My Portfolio
-                <span className="wave" role="img" aria-labelledby="wave">
-                  👋🏻
-                </span>
+                <Trans i18nKey="home.welcome">
+                  Welcome To My Portfolio
+                  <span className="wave" role="img" aria-labelledby="wave">
+                    👋🏻
+                  </span>
+                </Trans>
               </h1>
 
               <h1 className="heading-name">
-                I'M
-                <strong className="main-name"> OSCAR BUENO</strong>
+                <Trans i18nKey="home.im">
+                  I'M <strong className="main-name">OSCAR BUENO</strong>
+                </Trans>
               </h1>
 
               <div style={{ padding: 50, textAlign: "left" }}>

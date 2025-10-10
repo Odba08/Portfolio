@@ -1,0 +1,70 @@
+{
+  "home2": {
+    "title": "PERMÍTEME <1>PRESENTARME</1>",
+    "body1": "Soy un apasionado <1>Desarrollador Web y Móvil</1> con más de 3 años de experiencia creando y optimizando productos digitales de alto rendimiento.",
+    "body2": "Me especializo en frameworks como <1>Angular, React Native y NestJS,</1> enfocado en construir aplicaciones escalables y mantenibles con excelentes experiencias de usuario.",
+    "body3": "He trabajado en sistemas corporativos en <1>Servieduca</1> y desarrollado múltiples <1>proyectos freelance</1> con impacto real.",
+    "body4": "Disfruto transformar ideas en soluciones eficientes y elegantes utilizando herramientas modernas como <1>TypeScript, Node.js,</1> y frameworks como <1>React.js</1> y <1>Next.js.</1>"
+  },
+  "projects": {
+    "heading": "Mis <1>Proyectos Recientes</1>",
+    "description": "Una selección de proyectos en los que he contribuido, tanto profesionalmente como de manera personal.",
+
+    "urbeTitle": "Portal URBE",
+    "urbeDesc": "Portal oficial universitario. Trabajé en componentes de front-end, integración de servicios y gestión de contenido para ofrecer una experiencia fluida.",
+
+    "campusTitle": "Campus URBE",
+    "campusDesc": "Portal de noticias para la comunidad universitaria. Contribuí en la integración de servicios, optimización del rendimiento y diseño adaptable.",
+
+    "sustentableTitle": "URBE Sustentable",
+    "sustentableDesc": "Programa enfocado en iniciativas de sostenibilidad. Desarrollé secciones interactivas y mejoré el compromiso en campañas de concientización ambiental.",
+
+    "chatbetTitle": "ChatBet",
+    "chatbetDesc": "Asistente de apuestas con IA que transforma apps de mensajería (WhatsApp, Telegram, Discord) en canales de ingresos. Implementé flujos de chat e integración backend.",
+
+    "chatlayerTitle": "ChatLayer",
+    "chatlayerDesc": "Plataforma empresarial de IA conversacional. Trabajé en la integración de soluciones de mensajería para WhatsApp y Telegram, garantizando comunicación segura y escalable.",
+
+    "bisciTitle": "Bisci Cala",
+    "bisciDesc": "Implementé un sistema multilingüe para todo el sitio web, mejorando la accesibilidad y la experiencia del usuario entre idiomas.",
+
+    "tshopTitle": "Tshop E-commerce",
+    "tshopDesc": "Desarrollé una plataforma de comercio electrónico con pago seguro, catálogo de productos y diseño adaptable. Contribuí en funciones del front-end y optimización de rendimiento.",
+
+    "caloTitle": "Calo App",
+    "caloDesc": "Aplicación deportiva creada con React Native. Incluye seguimiento de ejercicios, planes de entrenamiento y análisis de rendimiento. Totalmente funcional y disponible en GitHub.",
+
+    "igoTitle": "Igo Store",
+    "igoDesc": "Aplicación de entregas desarrollada en React Native. Actualmente en progreso, implementando gestión de pedidos, catálogo de productos y actualizaciones en tiempo real.",
+
+    "conectandoTitle": "Conectando Realidades",
+    "conectandoDesc": "Página de noticias desarrollada como parte de un proyecto de tesis. Enfocada en gestión de contenido y diseño adaptable. Proyecto menor.",
+
+    "bingoTitle": "Generador de Bingo",
+    "bingoDesc": "Generador en línea de cartones de bingo usando HTML, CSS y JavaScript. Proyecto personal menor con fines de aprendizaje."
+  },
+ "about": {
+    "intro": "¡Hola a todos! Soy <1>Oscar Bueno</1> de <3>Venezuela</3>.",
+    "profession": "Soy <1>Desarrollador Web y Móvil</1> con más de 3 años de experiencia creando y optimizando aplicaciones escalables.",
+    "job": "Actualmente trabajo como desarrollador en <1>Servieduca</1>, enfocado en mejorar el rendimiento del sistema y la experiencia del usuario.",
+    "hobbiesIntro": "Cuando no estoy programando, me gusta dedicar tiempo a otras cosas que me apasionan:",
+    "hobby1": "Ir al gimnasio 🏋️‍♂️",
+    "hobby2": "Aprender nuevas tecnologías y frameworks",
+    "hobby3": "Jugar videojuegos y escuchar música",
+    "quote": "\"Sigue construyendo, sigue aprendiendo — cada línea de código cuenta.\"",
+    "name": "Oscar Bueno",
+    "title": "Conoce quién <1>Soy</1>",
+    "skillset": "Habilidades <1>Profesionales</1>",
+     "tools": "<1>Herramientas que uso</1>"
+  },
+  "home": {
+    "welcome": "Bienvenido a Mi Portafolio <1>👋🏻</1>",
+    "im": "SOY <1>OSCAR BUENO</1>"
+  },
+    "nav": {
+    "home": "Inicio",
+    "about": "Sobre mí",
+    "projects": "Proyectos",
+    "resume": "Currículum"
+  }
+}

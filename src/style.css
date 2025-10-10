@@ -741,3 +741,26 @@ button:focus {
 .fork-btn-inner::after {
   display: none !important;
 }
+.lang-btn {
+  background-color: transparent;
+  border: 1px solid #c770f0; 
+  color: #c770f0;
+  padding: 2px 14px;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-size: 0.9em;
+}
+
+.lang-btn:hover {
+  background-color: #c770f0; 
+  color: white; 
+  transform: translateY(-1px); 
+  box-shadow: 0 2px 8px rgba(199, 112, 240, 0.4);
+}
+.navbar-nav .nav-item.lang-btn-item {
+  margin-top: 1.5%;
+  gap: 5px;
+  margin-left: 15px;
+}

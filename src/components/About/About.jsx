@@ -1,13 +1,16 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
+import { Trans, useTranslation } from "react-i18next";
 import Particle from "../Particle";
 import Github from "./Github";
 import Techstack from "./Techstack";
-import Aboutcard from "./AboutCard";
+import AboutCard from "./AboutCard";
 import laptopImg from "../../Assets/aboutme.png";
 import Toolstack from "./Toolstack";
 
 function About() {
+  const { t } = useTranslation();
+
   return (
     <Container fluid className='about-section'>
       <Particle />
@@ -22,9 +25,11 @@ function About() {
             }}
           >
             <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
-              Know Who <strong className='purple'>I'M</strong>
+              <Trans i18nKey="about.title">
+                Know Who <strong className='purple'>I'M</strong>
+              </Trans>
             </h1>
-            <Aboutcard />
+            <AboutCard />
           </Col>
           <Col
             md={5}
@@ -40,19 +45,25 @@ function About() {
               src={laptopImg}
               alt='about'
               className='img-fluid'
-              style={{ maxHeight: "400px", objectFit: "contain" }}
+              style={{ maxHeight: "400px", objectFit: "contain", borderRadius: "8%" }}
             />
           </Col>
         </Row>
+
         <h1 className='project-heading'>
-          Professional <strong className='purple'>Skillset </strong>
+          <Trans i18nKey="about.skillset">
+            Professional <strong className='purple'>Skillset </strong>
+          </Trans>
         </h1>
 
         <Techstack />
 
         <h1 className='project-heading'>
-          <strong className='purple'>Tools</strong> I use
-        </h1>
+        <Trans i18nKey="about.tools">
+          <strong className='purple'>Tools</strong>
+        </Trans>
+      </h1>
+
         <Toolstack />
 
         {/* <Github /> */}
