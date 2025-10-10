@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import homeoscar from "../../Assets/home.jpg";
+import homeoscar from "../../Assets/niuhome.png";
 import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
@@ -35,7 +35,7 @@ function Home() {
                 src={homeoscar}
                 alt="home pic"
                 className="img-fluid"
-                style={{ maxHeight: "450px" }}
+                style={{ maxHeight: "450px", borderRadius: "8%" }}
               />
             </Col>
           </Row>
