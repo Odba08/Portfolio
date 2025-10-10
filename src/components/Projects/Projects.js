@@ -14,6 +14,7 @@ import chatlayer from "../../Assets/Projects/chatlayer.png";
 import bisci from "../../Assets/Projects/bisci.png";
 import chatbet from "../../Assets/Projects/ChatBetimage.png";
 import igo from "../../Assets/Projects/igo.PNG";
+import calo from "../../Assets/Projects/calo.PNG";
 
 
 
@@ -110,7 +111,7 @@ function Projects() {
           {/* Calo App */}
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={calo}
               isBlog={false}
               title="Calo App"
               description="Sports app developed in React Native. Features include tracking exercises, workout plans, and performance analytics. Fully functional, available on GitHub."
