@@ -4,6 +4,17 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 
 import chatify from "../../Assets/Projects/chatify.png";
+import urbe from "../../Assets/Projects//urbe.png";
+import tshop from "../../Assets/Projects/tshop.png";
+import conectando from "../../Assets/Projects/realidades.png";
+import bingo from "../../Assets/Projects/bingo.PNG";
+import sustentable from "../../Assets/Projects/sustentable.png";
+import campus from "../../Assets/Projects/campus.png";
+import chatlayer from "../../Assets/Projects/chatlayer.png";
+import bisci from "../../Assets/Projects/bisci.png";
+import chatbet from "../../Assets/Projects/ChatBetimage.png";
+
+
 
 function Projects() {
   return (
@@ -21,7 +32,7 @@ function Projects() {
           {/* Portal URBE */}
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={urbe}
               isBlog={false}
               title="Portal URBE"
               description="Official university portal. Worked on front-end components, service integration, and content management for seamless user experience."
@@ -32,7 +43,7 @@ function Projects() {
           {/* Campus URBE */}
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={campus}
               isBlog={false}
               title="Campus URBE"
               description="News portal for the university community. Contributed to integration of news services, performance optimization, and responsive layouts."
@@ -43,7 +54,7 @@ function Projects() {
           {/* URBE Sustentable */}
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={sustentable}
               isBlog={false}
               title="URBE Sustentable"
               description="Program focused on sustainability initiatives. Developed interactive sections and enhanced engagement for environmental awareness campaigns."
@@ -54,7 +65,7 @@ function Projects() {
           {/* ChatBet */}
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={chatbet}
               isBlog={false}
               title="ChatBet"
               description="AI-powered betting assistant transforming messaging apps (WhatsApp, Telegram, Discord) into seamless revenue channels. Implemented chat flows and backend integration."
@@ -65,7 +76,7 @@ function Projects() {
           {/* ChatLayer */}
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={chatlayer}
               isBlog={false}
               title="ChatLayer"
               description="Enterprise-grade conversational AI platform. Worked on integration of messaging solutions for WhatsApp and Telegram, ensuring secure and scalable communication."
@@ -76,7 +87,7 @@ function Projects() {
           {/* Bisci Cala */}
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={bisci}
               isBlog={false}
               title="Bisci Cala"
               description="Implemented multilingual translation system for the entire website, improving accessibility and user experience across languages."
@@ -87,7 +98,7 @@ function Projects() {
           {/* Tshop */}
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={tshop}
               isBlog={false}
               title="Tshop E-commerce"
               description="Developed e-commerce platform with secure checkout, product catalog, and responsive design. Contributed to front-end features and performance optimization."
@@ -120,7 +131,7 @@ function Projects() {
           {/* Conectando Realidades */}
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={conectando}
               isBlog={false}
               title="Conectando Realidades"
               description="News page developed as part of a thesis project. Focused on content management and responsive layout. Minor project."
@@ -132,7 +143,7 @@ function Projects() {
           {/* Bingo */}
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={bingo}
               isBlog={false}
               title="Bingo Generator"
               description="Online bingo card generator using HTML, CSS, and JavaScript. Minor personal project for learning purposes."
