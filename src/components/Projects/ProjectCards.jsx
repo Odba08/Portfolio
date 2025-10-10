@@ -14,7 +14,7 @@ function ProjectCards(props) {
         style={{
           width: "100%",       
           height: "280px",     
-          objectFit: "cover",  
+          objectFit: "fill",  
         }}
       />
       <Card.Body>

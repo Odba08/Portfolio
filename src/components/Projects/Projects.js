@@ -7,12 +7,13 @@ import chatify from "../../Assets/Projects/chatify.png";
 import urbe from "../../Assets/Projects//urbe.png";
 import tshop from "../../Assets/Projects/tshop.png";
 import conectando from "../../Assets/Projects/realidades.png";
-import bingo from "../../Assets/Projects/bingo.PNG";
+import bingo from "../../Assets/Projects/bingo.png";
 import sustentable from "../../Assets/Projects/sustentable.png";
 import campus from "../../Assets/Projects/campus.png";
 import chatlayer from "../../Assets/Projects/chatlayer.png";
 import bisci from "../../Assets/Projects/bisci.png";
 import chatbet from "../../Assets/Projects/ChatBetimage.png";
+import igo from "../../Assets/Projects/igo.PNG";
 
 
 
@@ -120,7 +121,7 @@ function Projects() {
           {/* Igo Store */}
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={igo}
               isBlog={false}
               title="Igo Store"
               description="Delivery app developed in React Native. Currently in progress, implementing order management, product catalog, and real-time updates."
