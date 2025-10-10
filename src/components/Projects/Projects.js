@@ -7,7 +7,7 @@ import chatify from "../../Assets/Projects/chatify.png";
 import urbe from "../../Assets/Projects//urbe.png";
 import tshop from "../../Assets/Projects/tshop.png";
 import conectando from "../../Assets/Projects/realidades.png";
-import bingo from "../../Assets/Projects/bingo.png";
+import bingo from "../../Assets/Projects/bingo.PNG";
 import sustentable from "../../Assets/Projects/sustentable.png";
 import campus from "../../Assets/Projects/campus.png";
 import chatlayer from "../../Assets/Projects/chatlayer.png";
