@@ -1,11 +1,11 @@
 import { Container, Row, Col } from "react-bootstrap";
 import myImg from "../../Assets/avataroscar.png";
 import Tilt from "react-parallax-tilt";
-import { useTranslation, Trans } from "react-i18next";
+import { Trans } from "react-i18next";
 
 function Home2() {
-  const { t } = useTranslation();
-
+/*   const { t } = useTranslation();
+ */
   return (
     <Container fluid className="home-about-section" id="about">
       <Container>

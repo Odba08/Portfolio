@@ -1,16 +1,15 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import { Trans, useTranslation } from "react-i18next";
+import { Trans } from "react-i18next";
 import Particle from "../Particle";
-import Github from "./Github";
 import Techstack from "./Techstack";
 import AboutCard from "./AboutCard";
 import laptopImg from "../../Assets/aboutme.png";
 import Toolstack from "./Toolstack";
 
 function About() {
-  const { t } = useTranslation();
-
+/*   const { t } = useTranslation();
+ */
   return (
     <Container fluid className='about-section'>
       <Particle />

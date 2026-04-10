@@ -1,14 +1,14 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import { Trans, useTranslation } from "react-i18next";
+import { Trans } from "react-i18next";
 import homeoscar from "../../Assets/niuhome.png";
 import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
 
 function Home() {
-  const { t } = useTranslation();
-
+/*   const { t } = useTranslation();
+ */
   return (
     <section>
       <Container fluid className="home-section" id="home">
