@@ -41,7 +41,19 @@
     "conectandoDesc": "Página de noticias desarrollada como parte de un proyecto de tesis. Enfocada en gestión de contenido y diseño adaptable. Proyecto menor.",
 
     "bingoTitle": "Generador de Bingo",
-    "bingoDesc": "Generador en línea de cartones de bingo usando HTML, CSS y JavaScript. Proyecto personal menor con fines de aprendizaje."
+    "bingoDesc": "Generador en línea de cartones de bingo usando HTML, CSS y JavaScript. Proyecto personal menor con fines de aprendizaje.",
+    
+    "tattoTitle": "Endir Alvillar Tattoos",
+    "tattoDesc": "Página de portafolio sobre tatuajes donde los usuarios pueden explorar los trabajos del artista y contactarlo directamente para agendar citas.",
+
+    "ayfTitle": "A&F Catálogo",
+    "ayfDesc": "Plataforma de catálogo de productos en línea que permite a los usuarios visualizar artículos y realizar pedidos de forma directa.",
+
+    "barra24Title": "Barra 24",
+    "barra24Desc": "Sitio web corporativo para una empresa de tecnología enfocada en redes, ofreciendo sus servicios de instalación y mantenimiento.",
+ 
+    "deportesTitle": "Deportes URBE",
+    "deportesDesc": "Portal deportivo oficial de la universidad enfocado en actividades físicas y programas atléticos. Desarrollado con una arquitectura cohesiva similar a las plataformas principales."
   },
  "about": {
     "intro": "¡Hola a todos! Soy <1>Oscar Bueno</1> de <3>Venezuela</3>.",

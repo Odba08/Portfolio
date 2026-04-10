@@ -41,7 +41,19 @@
     "conectandoDesc": "News page developed as part of a thesis project. Focused on content management and responsive layout. Minor project.",
 
     "bingoTitle": "Bingo Generator",
-    "bingoDesc": "Online bingo card generator using HTML, CSS, and JavaScript. Minor personal project for learning purposes."
+    "bingoDesc": "Online bingo card generator using HTML, CSS, and JavaScript. Minor personal project for learning purposes.",
+  
+    "tattoTitle": "Endir Alvillar Tattoos",
+    "tattoDesc": "A tattoo portfolio website where users can explore the artist's previous work and get in touch directly to book appointments.",
+
+    "ayfTitle": "A&F Catalog",
+    "ayfDesc": "An online product catalog platform that allows users to browse items and place direct orders seamlessly.",
+
+    "barra24Title": "Barra 24",
+    "barra24Desc": "Corporate website for a networking-focused technology company, showcasing their network installation and maintenance services.",
+  
+  "deportesTitle": "Deportes URBE",
+    "deportesDesc": "Official university sports portal focused on physical activities and athletic programs. Developed with a cohesive architecture similar to the main campus platforms."
   },
  "about": {
     "intro": "Hi everyone! I'm <1>Oscar Bueno</1> from <3>Venezuela</3>.",
